@@ -1,0 +1,6 @@
+token=process.env.BOT_TOKEN
+owner=296047056873848832 
+prefix=2
+game=2play
+stayinchannel=true
+songinstatus=true
