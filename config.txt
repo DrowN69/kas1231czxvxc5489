@@ -1,6 +1,6 @@
-token=NTA0MjQxNTcwNTQ4Mjg1NDQw.DrCLJg.0Jk1Vh-LNdeEW7y8fTq8nIpq8GE
-owner=296047056873848832 
-prefix=5
-game=5play
+token=process.env.BOT_TOKEN
+owner=418889394322407445
+prefix=!
+game=!play
 stayinchannel=true
 songinstatus=true
